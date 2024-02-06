@@ -99,3 +99,6 @@ puerto 7859: aloja el roblox
 
 
 187.5.254.111:4885
+
+comandos GIT
+https://www.freecodecamp.org/espanol/news/10-comandos-de-git-que-todo-desarrollador-deberia-saber/
